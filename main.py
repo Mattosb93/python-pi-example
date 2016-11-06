@@ -1,7 +1,7 @@
 #f/usr/bin/python3
 
 def main(msg):
-    // Adding second comment to file
+    // adding a different comment.
     print(msg)
 
 
