@@ -1,9 +1,7 @@
 #f/usr/bin/python3
 
 def main(msg):
-    #adding a different comment.
-    #Print something
-
+    #no longer need comment
     print(msg)
 
 
