@@ -1,11 +1,11 @@
 #f/usr/bin/python3
 
 def main(msg):
-    // adding a different comment.
-    // Print something
+    #adding a different comment.
+    #Print something
 
     print(msg)
 
 
 main("Hello People")
-//comment
+#comment
