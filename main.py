@@ -1,6 +1,7 @@
 #f/usr/bin/python3
 
 def main(msg):
+    // Print something
     print(msg)
 
 
